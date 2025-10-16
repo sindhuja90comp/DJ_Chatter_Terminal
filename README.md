@@ -45,12 +45,4 @@ dj_chatter_terminal/
    └─ management/
       └─ commands/
          └─ chatbot.py
-```
 
-## Screenshot
-- After you see the `user:` / `bot:` conversation in your terminal, take a screenshot and paste it in your Word document.
-- Include your **GitHub repo URL** to this folder.
-
-## Notes
-- If you get install errors, double‑check you're using **Python 3.8**.
-- On subsequent runs, the bot will reuse the existing SQLite database.
