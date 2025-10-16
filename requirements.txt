@@ -1,0 +1,4 @@
+# Tested with Python 3.8.x
+Django==3.2.25
+ChatterBot==1.2.0
+chatterbot-corpus==1.2.0
